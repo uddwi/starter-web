@@ -2,8 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+	uday Dwibedi	DevOps	@uddwi
+#    <name> -- <role> -- <twitter>
 
 # THANKS
 
